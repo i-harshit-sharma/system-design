@@ -1,0 +1,48 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "numbers",
+          "docs": [
+            {
+              "id": "cloud-native",
+              "path": "/docs/cloud-native",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Debugging",
+              "path": "/docs/Debugging",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Dns",
+              "path": "/docs/Dns",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "numbers",
+              "path": "/docs/numbers",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/numbers",
+                "label": "numbers"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

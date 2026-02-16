@@ -1,0 +1,27 @@
+{
+  "id": "Dns",
+  "title": "Dns",
+  "description": "Overview",
+  "source": "@site/docs/Dns.md",
+  "sourceDirName": ".",
+  "slug": "/Dns",
+  "permalink": "/docs/Dns",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Dns.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "What is Cloud Native?",
+    "permalink": "/docs/cloud-native"
+  },
+  "next": {
+    "title": "Debugging tips and tricks",
+    "permalink": "/docs/Debugging"
+  }
+}

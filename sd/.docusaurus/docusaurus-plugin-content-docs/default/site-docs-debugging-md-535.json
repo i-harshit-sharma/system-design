@@ -1,0 +1,20 @@
+{
+  "id": "Debugging",
+  "title": "Debugging tips and tricks",
+  "description": "Keep in mind:",
+  "source": "@site/docs/Debugging.md",
+  "sourceDirName": ".",
+  "slug": "/Debugging",
+  "permalink": "/docs/Debugging",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Debugging.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Dns",
+    "permalink": "/docs/Dns"
+  }
+}

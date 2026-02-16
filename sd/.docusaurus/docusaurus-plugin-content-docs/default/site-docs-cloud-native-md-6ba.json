@@ -1,0 +1,27 @@
+{
+  "id": "cloud-native",
+  "title": "What is Cloud Native?",
+  "description": "Definition",
+  "source": "@site/docs/cloud-native.md",
+  "sourceDirName": ".",
+  "slug": "/cloud-native",
+  "permalink": "/docs/cloud-native",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/cloud-native.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Numbers every System Designer should know",
+    "permalink": "/docs/numbers"
+  },
+  "next": {
+    "title": "Dns",
+    "permalink": "/docs/Dns"
+  }
+}

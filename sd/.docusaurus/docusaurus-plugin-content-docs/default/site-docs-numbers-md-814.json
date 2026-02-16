@@ -1,0 +1,23 @@
+{
+  "id": "numbers",
+  "title": "Numbers every System Designer should know",
+  "description": "| Time Range     | Operation                                                      |",
+  "source": "@site/docs/numbers.md",
+  "sourceDirName": ".",
+  "slug": "/numbers",
+  "permalink": "/docs/numbers",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/numbers.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "What is Cloud Native?",
+    "permalink": "/docs/cloud-native"
+  }
+}
