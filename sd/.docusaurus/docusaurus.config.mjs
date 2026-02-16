@@ -89,11 +89,11 @@ export default {
           "position": "left",
           "label": "System Design"
         },
-        // {
-        //   "to": "/blog",
-        //   "label": "Blog",
-        //   "position": "left"
-        // },
+        {
+          "to": "/blog",
+          "label": "Blog",
+          "position": "left"
+        },
         {
           "href": "https://github.com/i-harshit-sharma",
           "label": "GitHub",
@@ -105,15 +105,6 @@ export default {
     "footer": {
       "style": "dark",
       "links": [
-        {
-          "title": "Docs",
-          "items": [
-            {
-              "label": "Tutorial",
-              "to": "/docs/intro"
-            }
-          ]
-        },
         {
           "title": "Community",
           "items": []
