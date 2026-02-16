@@ -95,7 +95,7 @@ const config = {
             position: 'left',
             label: 'System Design',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/i-harshit-sharma',
             label: 'GitHub',

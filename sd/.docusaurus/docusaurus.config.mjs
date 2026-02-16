@@ -90,11 +90,6 @@ export default {
           "label": "System Design"
         },
         {
-          "to": "/blog",
-          "label": "Blog",
-          "position": "left"
-        },
-        {
           "href": "https://github.com/i-harshit-sharma",
           "label": "GitHub",
           "position": "right"
